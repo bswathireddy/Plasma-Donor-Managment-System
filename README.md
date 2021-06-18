@@ -1,0 +1,2 @@
+# Plasma-Donor-Managment-System
+This database is aimed at designing and implementing an automated system that will alleviate the problem of handling COVID patients’ data in a hospital and plasma donor information. Our database will felicitate accurate and quick data thereby matching the right plasma donor to the COVID patient. Our proposed database can be used in any hospital or plasma bank that accommodates COVID patients.
